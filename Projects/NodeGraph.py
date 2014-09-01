@@ -55,6 +55,8 @@ class NodeGrapher(object):
     def __init__(self,V=[],E=[]):
         self.V = self.getValidElementsList(V, Node)
         self.E = self.getValidElementsList(E, Link)
+        self.selectedLinkStart = None
+        self.selectedLinkEnd = None
         self.initGUI()
     
     def show(self):
@@ -72,28 +74,64 @@ class NodeGrapher(object):
     
     def initGUI(self):
         self.main = tkinter.Tk()
-        self.main.title = "Node Grapher"
+        self.main.title("Node Grapher")
         self.main.bind("<Button-1>", self.clicked)
         self.main.bind("<B1-Motion>",self.dragging)        
         self.main.bind("<ButtonRelease-1>",self.released)
         
+        #For adding nodes
+        self.main.bind("<Control-Button-1>", self.ctrlClicked)
+        
+        #add a canvas
         self.canvas = tkinter.Canvas(self.main,width=680,height=500)
+        #For rightclicking a node
+        self.canvas.tag_bind("node", "<Button-3>", self.nodeRightClicked)
+        
         self.canvas.pack()
         
+        #Draw nodes
         self.render()
-        self.show()
+        
+        #Show the window (enter mainloop)
+        #self.show()
+    
+    def ctrlClicked(self, event):
+        x = self.canvas.canvasx(event.x)
+        y = self.canvas.canvasy(event.y)
+        node = Node(x,y)
+        self.V.append(node)
+        self.drawNode(node)
+    
+    def nodeRightClicked(self, event):
+        x = self.canvas.canvasx(event.x)
+        y = self.canvas.canvasy(event.y)
+        
+        node = self.getClosestNode(x,y)
+        
+        if not (self.selectedLinkStart):
+            self.selectedLinkStart = node
+            self.canvas.itemconfig(node.p, tags=("node", "selected"), fill="red")
+        elif self.selectedLinkStart and (node != self.selectedLinkStart):
+            self.selectedLinkEnd = node
+            self._connectNodes()
+            
+    def _connectNodes(self):
+        if isinstance(self.selectedLinkStart, Node) and isinstance(self.selectedLinkEnd, Node):
+            link = Link(self.selectedLinkStart, self.selectedLinkEnd)
+            self.selectedLinkStart.links.append(link)
+            self.selectedLinkEnd.links.append(link)
+            self.E.append(link)
+            self.drawLink(link)
+            self.sendLinksBack()
+            self.canvas.itemconfig(self.selectedLinkStart.p, tags="node", fill="cyan")
+        self.selectedLinkStart = None
+        self.selectedLinkEnd = None
     
     def clicked(self, event):
-        x = event.x
-        y = event.y
-        dist = math.sqrt((self.V[0].x-x)**2+(self.V[0].y-y)**2)
-        
-        for node in self.V:
-            nodeDist = math.sqrt((node.x-x)**2+(node.y-y)**2)
-            if nodeDist <= dist:
-                self.selectedNode = node
-                dist = nodeDist
-
+        x = self.canvas.canvasx(event.x)
+        y = self.canvas.canvasy(event.y)
+        self.selectedNode = self.getClosestNode(x,y)
+    
     def dragging(self, event):
         node = self.selectedNode
         if node:
@@ -110,22 +148,39 @@ class NodeGrapher(object):
     
     def render(self):
         self.canvas.create_rectangle(0,0,680, 500, fill="green")
-        for line in self.E:
-            start = line.getStartNode()
-            end = line.getEndNode()
-            points = [start.x, start.y, end.x, end.y]
-            #x = end.x - start.x
-            #y = end.y - start.y
-            #startAngle = math.atan2(x, y)*(180/math.pi)
-            
-            l = self.canvas.create_line(points,tag="link")
-            line.l = l
+        
         for point in self.V:
-            points = [point.x-5,point.y-5,point.x+5,point.y+5]
-            p = self.canvas.create_oval(points, fill="cyan", tag="node")
-            point.p = p
-                    
-                    
+            self.drawNode(point)
+        for line in self.E:
+            self.drawLink(line)
+        self.sendLinksBack()
+    
+    def drawNode(self, node):
+        points = [node.x-5, node.y-5, node.x+5,node.y+5]
+        node.p = self.canvas.create_oval(points, fill="cyan", tags="node")
+        
+    def drawLink(self, link):
+        start = link.getStartNode()
+        end = link.getEndNode()
+        points = [start.x, start.y, end.x, end.y]  
+        link.l = self.canvas.create_line(points,tags="link")
+    
+    def sendLinksBack(self):
+        self.canvas.tag_lower("link", "node")
+        
+    def getClosestNode(self, x, y):
+        #Initial distance and value
+        dist = math.sqrt((self.V[0].x-x)**2+(self.V[0].y-y)**2)
+        closestNode = self.V[0]
+        
+        #Iterate over nodes and find closest
+        for node in self.V:
+            nodeDist = math.sqrt((node.x-x)**2+(node.y-y)**2)
+            if nodeDist <= dist:
+                closestNode = node
+                dist = nodeDist
+        return closestNode
+        
 def main():
     nodes = []
     edges = []
@@ -144,3 +199,7 @@ def main():
     
 if __name__ == "__main__":
     main()
+                    
+                    
+                    
+                    
