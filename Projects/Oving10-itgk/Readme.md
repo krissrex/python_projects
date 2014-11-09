@@ -10,6 +10,15 @@ med
 from skumleskogen2 import *
 ```
 
+I debug-output brukes noen forkortelser som viser verdiet til er_laas, er_vanlig osv. De er:
+* i: Inngang
+* l: Lås
+* sl: Superlås
+* st: Stank
+* nk: Nøkkel
+* v: Vanlig
+* u: Utgang
+
 ---
 ### Oppgaven
 
