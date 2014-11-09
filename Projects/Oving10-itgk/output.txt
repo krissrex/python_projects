@@ -1,0 +1,837 @@
+
+Starting. Time:03:52:11
+Er inngang:True
+/////////////////////////DEBUG://///////////////////////
+Nummer: 0
+Type:
+    i: True, l: False, sl: False, st: False, nk: False, v: False, u: False
+Label: INN
+/////////////////////////DEBUG://///////////////////////
+Nummer: 1
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 0
+Type:
+    i: True, l: False, sl: False, st: False, nk: False, v: False, u: False
+Label: INN
+/////////////////////////DEBUG://///////////////////////
+Nummer: 2
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 3
+Type:
+    i: False, l: True, sl: False, st: False, nk: False, v: False, u: False
+Label: L
+Er låst
+Er låst
+kom fra:venstre
+har lås
+/////////////////////////DEBUG://///////////////////////
+Nummer: 2
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 4
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 7
+Type:
+    i: False, l: False, sl: False, st: False, nk: True, v: False, u: False
+Label: N
+/////////////////////////DEBUG://///////////////////////
+Nummer: 7
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 4
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 8
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 4
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 2
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 3
+Type:
+    i: False, l: True, sl: False, st: False, nk: False, v: False, u: False
+Label: L
+Er låst
+Er låst
+/////////////////////////DEBUG://///////////////////////
+Nummer: 3
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 5
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 9
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 5
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 10
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 5
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 3
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 6
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 11
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 13
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 17
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 21
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 27
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 31
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 27
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 32
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 27
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 21
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 28
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 33
+Type:
+    i: False, l: True, sl: False, st: False, nk: False, v: False, u: False
+Label: L
+Er låst
+Er låst
+kom fra:venstre
+har lås
+/////////////////////////DEBUG://///////////////////////
+Nummer: 28
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 34
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 28
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:høyre
+har lås
+/////////////////////////DEBUG://///////////////////////
+Nummer: 21
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+har lås
+/////////////////////////DEBUG://///////////////////////
+Nummer: 17
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 22
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 17
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+har lås
+/////////////////////////DEBUG://///////////////////////
+Nummer: 13
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 18
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 13
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+har lås
+/////////////////////////DEBUG://///////////////////////
+Nummer: 11
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 14
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 11
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+har lås
+/////////////////////////DEBUG://///////////////////////
+Nummer: 6
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 12
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 15
+Type:
+    i: False, l: True, sl: False, st: False, nk: False, v: False, u: False
+Label: L
+Er låst
+Er låst
+kom fra:venstre
+har lås
+/////////////////////////DEBUG://///////////////////////
+Nummer: 12
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 16
+Type:
+    i: False, l: False, sl: False, st: False, nk: True, v: False, u: False
+Label: N
+/////////////////////////DEBUG://///////////////////////
+Nummer: 16
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 12
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 15
+Type:
+    i: False, l: True, sl: False, st: False, nk: False, v: False, u: False
+Label: L
+Er låst
+Er låst
+/////////////////////////DEBUG://///////////////////////
+Nummer: 15
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 19
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 23
+Type:
+    i: False, l: False, sl: False, st: False, nk: True, v: False, u: False
+Label: N
+/////////////////////////DEBUG://///////////////////////
+Nummer: 23
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 19
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 24
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 19
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 15
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 20
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 25
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 20
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 26
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 29
+Type:
+    i: False, l: False, sl: False, st: False, nk: True, v: False, u: False
+Label: N
+/////////////////////////DEBUG://///////////////////////
+Nummer: 29
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 26
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 30
+Type:
+    i: False, l: False, sl: False, st: True, nk: False, v: False, u: False
+Label: S
+/////////////////////////DEBUG://///////////////////////
+Nummer: 26
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 20
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 15
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 12
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 6
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 11
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 13
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 17
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 21
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 28
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 33
+Type:
+    i: False, l: True, sl: False, st: False, nk: False, v: False, u: False
+Label: L
+Er låst
+Er låst
+/////////////////////////DEBUG://///////////////////////
+Nummer: 33
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 37
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 39
+Type:
+    i: False, l: False, sl: False, st: True, nk: False, v: False, u: False
+Label: S
+/////////////////////////DEBUG://///////////////////////
+Nummer: 37
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 40
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 43
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 40
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 44
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 45
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 44
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 46
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 47
+Type:
+    i: False, l: False, sl: False, st: False, nk: True, v: False, u: False
+Label: N
+/////////////////////////DEBUG://///////////////////////
+Nummer: 47
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 46
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 48
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 49
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 48
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 50
+Type:
+    i: False, l: True, sl: True, st: False, nk: False, v: False, u: False
+Label: SL
+Er låst
+Er låst
+/////////////////////////DEBUG://///////////////////////
+Nummer: 50
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 51
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 53
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 51
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 54
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 51
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 50
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 52
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 55
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 52
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 56
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 57
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 59
+Type:
+    i: False, l: False, sl: False, st: False, nk: True, v: False, u: False
+Label: N
+/////////////////////////DEBUG://///////////////////////
+Nummer: 59
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 57
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 60
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 57
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 56
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 58
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 61
+Type:
+    i: False, l: False, sl: False, st: True, nk: False, v: False, u: False
+Label: S
+/////////////////////////DEBUG://///////////////////////
+Nummer: 58
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 62
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 65
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 67
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 65
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 68
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 70
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 68
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 71
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 72
+Type:
+    i: False, l: False, sl: False, st: True, nk: False, v: False, u: False
+Label: S
+/////////////////////////DEBUG://///////////////////////
+Nummer: 71
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 73
+Type:
+    i: False, l: False, sl: False, st: False, nk: True, v: False, u: False
+Label: N
+/////////////////////////DEBUG://///////////////////////
+Nummer: 73
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+Er blindvei
+Er blindvei
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 71
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 68
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:høyre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 65
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+kom fra:venstre
+/////////////////////////DEBUG://///////////////////////
+Nummer: 62
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 66
+Type:
+    i: False, l: True, sl: True, st: False, nk: False, v: False, u: False
+Label: SL
+Er låst
+Er låst
+/////////////////////////DEBUG://///////////////////////
+Nummer: 66
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: True, u: False
+Label: None
+/////////////////////////DEBUG://///////////////////////
+Nummer: 69
+Type:
+    i: False, l: False, sl: False, st: False, nk: False, v: False, u: True
+Label: UT
+Er blindvei
+Er blindvei
+Ran for 0.0153 seconds.
+Maze completed.
+['inn', 'venstre 1', 'tilbake til 0', 'høyre 2', 'venstre 3', 'tilbake til 2', 'høyre 4', 'venstre 7', 'plukket nøkkel 1', 'tilbake til 4', 'høyre 8', 'tilbake til 4', 'tilbake til 2', 'venstre 3', 'låste opp s 0', 'venstre 5', 'venstre 9', 'tilbake til 5', 'høyre 10', 'tilbake til 5', 'tilbake til 3', 'høyre 6', 'venstre 11', 'venstre 13', 'venstre 17', 'venstre 21', 'venstre 27', 'venstre 31', 'tilbake til 27', 'høyre 32', 'tilbake til 27', 'tilbake til 21', 'høyre 28', 'venstre 33', 'tilbake til 28', 'høyre 34', 'tilbake til 28', 'tilbake til 21', 'tilbake til 17', 'høyre 22', 'tilbake til 17', 'tilbake til 13', 'høyre 18', 'tilbake til 13', 'tilbake til 11', 'høyre 14', 'tilbake til 11', 'tilbake til 6', 'høyre 12', 'venstre 15', 'tilbake til 12', 'høyre 16', 'plukket nøkkel 1', 'tilbake til 12', 'venstre 15', 'låste opp s 0', 'venstre 19', 'venstre 23', 'plukket nøkkel 1', 'tilbake til 19', 'høyre 24', 'tilbake til 19', 'tilbake til 15', 'høyre 20', 'venstre 25', 'tilbake til 20', 'høyre 26', 'venstre 29', 'plukket nøkkel 2', 'tilbake til 26', 'høyre 30', 'STANK! tilbake til 26', 'tilbake til 20', 'tilbake til 15', 'tilbake til 12', 'tilbake til 6', 'venstre 11', 'venstre 13', 'venstre 17', 'venstre 21', 'høyre 28', 'venstre 33', 'låste opp s 1', 'venstre 37', 'venstre 39', 'STANK! tilbake til 37', 'høyre 40', 'venstre 43', 'tilbake til 40', 'høyre 44', 'venstre 45', 'tilbake til 44', 'høyre 46', 'venstre 47', 'plukket nøkkel 2', 'tilbake til 46', 'høyre 48', 'venstre 49', 'tilbake til 48', 'høyre 50', 'låste opp sl 0', 'venstre 51', 'venstre 53', 'tilbake til 51', 'høyre 54', 'tilbake til 51', 'tilbake til 50', 'høyre 52', 'venstre 55', 'tilbake til 52', 'høyre 56', 'venstre 57', 'venstre 59', 'plukket nøkkel 1', 'tilbake til 57', 'høyre 60', 'tilbake til 57', 'tilbake til 56', 'høyre 58', 'venstre 61', 'STANK! tilbake til 58', 'høyre 62', 'venstre 65', 'venstre 67', 'tilbake til 65', 'høyre 68', 'venstre 70', 'tilbake til 68', 'høyre 71', 'venstre 72', 'STANK! tilbake til 71', 'høyre 73', 'plukket nøkkel 2', 'tilbake til 71', 'tilbake til 68', 'tilbake til 65', 'tilbake til 62', 'høyre 66', 'låste opp sl 0', 'venstre 69']
