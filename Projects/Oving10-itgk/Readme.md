@@ -10,7 +10,10 @@ med
 from skumleskogen2 import *
 ```
 
-I debug-output brukes noen forkortelser som viser verdiet til er_laas, er_vanlig osv. De er:
+---
+### Forkortelser i debug output
+
+I debug-output brukes noen forkortelser som viser retur-verdien til er_laas, er_vanlig osv. De er:
 * i: Inngang
 * l: Lås
 * sl: Superlås
