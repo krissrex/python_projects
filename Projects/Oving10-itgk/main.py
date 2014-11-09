@@ -8,11 +8,38 @@ Created on Sun Nov  9 00:06:24 2014
 from skumleskogen import *
 import time
 
-hukommelse = {}
+################## OPTIONS ##################
 debug_on = True
+write_to_file = True
+
+
+hukommelse = {}
 sti_totalt = ["inn"]
 noder_med_lås = set()
 forrige_retning = []
+
+file = None
+
+try:
+    del print
+except:
+    pass
+
+_print = print
+
+
+class Print_To_File(object):
+    def __init__(self, *text):
+        _print(text)
+        string = ""
+        for t in text:
+            string += str(t)
+        if file:
+            file.write("\n" + string)
+
+if write_to_file:
+    print = Print_To_File
+    file = open("output.txt", mode="a")
 
 
 class MovementException(Exception):
@@ -212,7 +239,7 @@ def main():
 
     # Done, do final actions.
     finally:
-        print("Ran for {0} seconds.".format(
+        print("\nRan for {0} seconds.".format(
             abs(
                 round(start_time - time.time(), 4))))
     print("Maze completed.")
@@ -220,3 +247,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    if file:
+        file.close()
